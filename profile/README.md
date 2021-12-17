@@ -1,6 +1,6 @@
 # NewTypeChampion
 
-프로젝트 설명
+> 내 위치는 어디?!
 
 ---
 
